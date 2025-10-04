@@ -1,6 +1,6 @@
 import AboutSection from "../component/AboutSection";
 import Benefits from "../component/Benefits";
-import CTA from "../component/cta";
+import CTA from "../component/CTA";
 import EasySteps from "../component/EasySteps";
 import FAQ from "../component/FAQ";
 import Feature from "../component/Feature";
